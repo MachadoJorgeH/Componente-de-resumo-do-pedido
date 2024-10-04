@@ -1,0 +1,1 @@
+Esta é uma solução para o desafio do cartão de resumo do pedido no Frontend Mentor. Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas.
